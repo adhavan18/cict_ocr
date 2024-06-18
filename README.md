@@ -1,29 +1,29 @@
-<h1 align="center"> OCR Tamil - Easy, Accurate and Simple to use Tamil OCR - (ஒளி எழுத்துணரி)</h1>
+<h1 align="center"> CICT_OCR, An Easy,  - (ஒளி எழுத்துணரி)</h1>
 
 <p align="center">❤️️❤️️Please star✨ it if you like❤️️❤️️</p>
 
 <p align="center">
   <a href="LICENSE">
-    <img src="https://github.com/gnana70/tamil_ocr/raw/main/test_images/MIT.svg" alt="LICENSE">
+    <img src="https://github.com/adhavan18/cict_ocr/raw/main/test_images/MIT.svg" alt="LICENSE">
   </a>
-  <a href="https://huggingface.co/spaces/GnanaPrasath/ocr_tamil">
-    <img src="https://github.com/gnana70/tamil_ocr/raw/main/test_images/huggingface.svg" alt="HuggingSpace">
+  <a href="">
+    <img src="https://github.com/adhavan18/cict_ocr/raw/main/test_images/huggingface.svg" alt="HuggingSpace">
   </a>
-   <a href="https://colab.research.google.com/drive/11QPPj3EmpoIqnpuIznKeP1icxvVOjfux?usp=sharing">
-    <img src="https://github.com/gnana70/tamil_ocr/raw/main/test_images/colab.svg" alt="colab">
+   <a href="">
+    <img src="https://github.com/adhavan18/cict_ocr/raw/main/test_images/colab.svg" alt="colab">
   </a>
 </p>
 
 
 <div align="center">
   <p>
-    <a href="https://github.com/gnana70/tamil_ocr">
-    <img width="50%" src="https://github.com/gnana70/tamil_ocr/raw/main/test_images/logo_1.gif">
+    <a href="https://github.com/adhavan18/cict_ocr">
+    <img width="50%" src="https://github.com/adhavan18/cict_ocr/raw/main/test_images/logo_1.gif">
     </a>
   </p>
 </div>
 
- OCR Tamil can help you extract text from signboard, nameplates, storefronts etc., from Natural Scenes with high accuracy. This version of OCR is much more robust to tilted text compared to the Tesseract, Paddle OCR and Easy OCR as they are primarily built to work on the documents texts and not on natural scenes.
+ CICT-OCR, We from the Central Insitute of Classical Tamil have developed this apart from other ocr modules available, helps you recognise old-tamil manuscripts with high accuracy. This OCR is much more robust to tilted text compared to the Tesseract, Easy OCR and ocr_tamil as they are primarily built to work on the documents texts and not on manuscripts
 
 ## Languages Supported 🔛
 **➡️ English**
@@ -41,18 +41,18 @@
 
  Input Image                                                                |  OCR TAMIL   🏆         | Tesseract         | EasyOCR |
 |:--------------------------------------------------------------------------:|:--------------------:|:-----------------:|:-----------------:|
-| <img width="200" alt="teaser" src="https://github.com/gnana70/tamil_ocr/raw/main/test_images/4.jpg">                   | வாழ்கவளமுடன்✅     |    க்‌ க்கஸாரகளள௮ஊகஎளமுடன்‌ ❌  | வாழக வளமுடன்❌|
-| <img width="200" alt="teaser" src="https://github.com/gnana70/tamil_ocr/raw/main/test_images/11.jpg">                   | தமிழ்வாழ்க✅      | **NO OUTPUT** ❌           | தமிழ்வாழ்க✅      |
-| <img width="200" alt="teaser" src="https://github.com/gnana70/tamil_ocr/raw/main/test_images/2.jpg">                   | கோபி ✅              | **NO OUTPUT** ❌          | ப99❌          |
-| <img width="200" alt="teaser" src="https://github.com/gnana70/tamil_ocr/raw/main/test_images/6.jpg">                   | தாம்பரம் ✅           | **NO OUTPUT** ❌ | தாம்பரம❌ |
-| <img width="200" alt="teaser" src="https://github.com/gnana70/tamil_ocr/raw/main/test_images/1.jpg">                   | நெடுஞ்சாலைத் ✅      | **NO OUTPUT** ❌             |நெடுஞ்சாலைத் ✅      |
-| <img width="200" alt="teaser" src="https://github.com/gnana70/tamil_ocr/raw/main/test_images/5.jpg">                   | அண்ணாசாலை ✅     | **NO OUTPUT** ❌            |  ல@I9❌            |
-| <img width="200" alt="teaser" src="https://github.com/gnana70/tamil_ocr/raw/main/test_images/10.jpg">                  | ரெடிமேட்ஸ் ✅         |**NO OUTPUT** ❌     | ரெடிமேடஸ் ❌         |
+| <img width="200" alt="teaser" src="https://github.com/adhavan18/cict_ocr/raw/main/test_images/4.jpg">                   | வாழ்கவளமுடன்✅     |    க்‌ க்கஸாரகளள௮ஊகஎளமுடன்‌ ❌  | வாழக வளமுடன்❌|
+| <img width="200" alt="teaser" src="https://github.com/adhavan18/cict_ocr/raw/main/test_images/11.jpg">                   | தமிழ்வாழ்க✅      | **NO OUTPUT** ❌           | தமிழ்வாழ்க✅      |
+| <img width="200" alt="teaser" src="https://github.com/adhavan18/cict_ocr/raw/main/test_images/2.jpg">                   | கோபி ✅              | **NO OUTPUT** ❌          | ப99❌          |
+| <img width="200" alt="teaser" src="https://github.com/adhavan18/cict_ocr/raw/main/test_images/6.jpg">                   | தாம்பரம் ✅           | **NO OUTPUT** ❌ | தாம்பரம❌ |
+| <img width="200" alt="teaser" src="https://github.com/adhavan18/cict_ocr/raw/main/test_images/1.jpg">                   | நெடுஞ்சாலைத் ✅      | **NO OUTPUT** ❌             |நெடுஞ்சாலைத் ✅      |
+| <img width="200" alt="teaser" src="https://github.com/adhavan18/cict_ocr/raw/main/test_images/5.jpg">                   | அண்ணாசாலை ✅     | **NO OUTPUT** ❌            |  ல@I9❌            |
+| <img width="200" alt="teaser" src="https://github.com/adhavan18/cict_ocr/raw/main/test_images/10.jpg">                  | ரெடிமேட்ஸ் ✅         |**NO OUTPUT** ❌     | ரெடிமேடஸ் ❌         |
 
 **Obtained Tesseract and EasyOCR results using the [Colab notebook](https://colab.research.google.com/drive/1ylZm6afur85Pe6I10N2_tzuBFl2VIxkW?usp=sharing) with Tamil and english as language**
 
 ## Handwritten Text (Experimental)🧪
-<img width="500" alt="teaser" src="https://github.com/gnana70/tamil_ocr/raw/develop/test_images/tamil_handwritten.jpg">
+<img width="500" alt="teaser" src="https://github.com/adhavan18/cict_ocr/raw/develop/test_images/tamil_handwritten.jpg">
 
 
 ```
@@ -76,20 +76,20 @@ MODEL OUTPUT: நிமிர்ந்த நன்னடை மேற்கொ�
 
 ✍️ Experiment in [Colab notebook](https://colab.research.google.com/drive/11QPPj3EmpoIqnpuIznKeP1icxvVOjfux?usp=sharing)
 
-🤗 Test it in [Huggingface spaces](https://huggingface.co/spaces/GnanaPrasath/ocr_tamil)
+🤗 Test it in [Huggingface spaces](https://huggingface.co/spaces/GnanaPrasath/cict_ocr)
 
 
 ### Pip install instructions🐍
-In your command line, run the following command ```pip install ocr_tamil```
+In your command line, run the following command ```pip install cict_ocr```
 
-If you are using jupyter notebook , install like ```!pip install ocr_tamil```
+If you are using jupyter notebook , install like ```!pip install cict_ocr```
 
 ### Python Usage - Single image inference
 
 **Text Recognition only**
 
 ```python
-from ocr_tamil.ocr import OCR
+from cict_ocr.ocr import OCR
 
 image_path = r"test_images\1.jpg" # insert your own path here
 ocr = OCR()
@@ -98,13 +98,13 @@ print(text_list[0])
 
 ## OUTPUT : நெடுஞ்சாலைத்
 ```
-<img width="200" alt="teaser" src="https://github.com/gnana70/tamil_ocr/raw/main/test_images/1_180.jpg">
+<img width="200" alt="teaser" src="https://github.com/adhavan18/cict_ocr/raw/main/test_images/1_180.jpg">
 
 
 **Text Detect + Recognition**
 
 ```python
-from ocr_tamil.ocr import OCR
+from cict_ocr.ocr import OCR
 
 image_path = r"test_images\0.jpg" # insert your own image path here
 ocr = OCR(detect=True)
@@ -114,7 +114,7 @@ print(" ".join(texts))
 ## OUTPUT : கொடைக்கானல் Kodaikanal 
 
 ```
-<img width="400" alt="teaser" src="https://github.com/gnana70/tamil_ocr/raw/main/test_images/0.jpg">
+<img width="400" alt="teaser" src="https://github.com/adhavan18/cict_ocr/raw/main/test_images/0.jpg">
 
 
 ### Batch inference mode 💻
@@ -122,7 +122,7 @@ print(" ".join(texts))
 **Text Recognition only**
 
 ```python
-from ocr_tamil.ocr import OCR
+from cict_ocr.ocr import OCR
 
 image_path = [r"test_images\1.jpg",r"test_images\2.jpg"] # insert your own image paths here
 ocr = OCR()
@@ -139,7 +139,7 @@ for text in text_list:
 **Text Detect + Recognition**
 
 ```python
-from ocr_tamil.ocr import OCR
+from cict_ocr.ocr import OCR
 
 image_path = [r"test_images\0.jpg",r"test_images\tamil_sentence.jpg"] # insert your own image paths here
 ocr = OCR(detect=True)
@@ -196,8 +196,8 @@ OCR module can be initialized by setting following parameters as per your requir
 2. Unable to read the text if they are present in rotated forms
 
 <p align="left">
-<img width="200" alt="teaser" src="https://github.com/gnana70/tamil_ocr/raw/main/test_images/9.jpg"> 
-<img width="200" alt="teaser" src="https://github.com/gnana70/tamil_ocr/raw/main/test_images/8.jpg">
+<img width="200" alt="teaser" src="https://github.com/adhavan18/cict_ocr/raw/main/test_images/9.jpg"> 
+<img width="200" alt="teaser" src="https://github.com/adhavan18/cict_ocr/raw/main/test_images/8.jpg">
 </p>
 
 3. Currently supports Only Tamil Language. I don't own english model as it's taken from open source implementation of parseq
@@ -208,41 +208,3 @@ OCR module can be initialized by setting following parameters as per your requir
 **Text detection** - [CRAFT TEXT DECTECTION](https://github.com/clovaai/CRAFT-pytorch)
 
 **Text recognition** - [PARSEQ](https://github.com/baudm/parseq)
-
-
-```bibtex
-@InProceedings{bautista2022parseq,
-  title={Scene Text Recognition with Permuted Autoregressive Sequence Models},
-  author={Bautista, Darwin and Atienza, Rowel},
-  booktitle={European Conference on Computer Vision},
-  pages={178--196},
-  month={10},
-  year={2022},
-  publisher={Springer Nature Switzerland},
-  address={Cham},
-  doi={10.1007/978-3-031-19815-1_11},
-  url={https://doi.org/10.1007/978-3-031-19815-1_11}
-}
-```
-
-```bibtex
-@inproceedings{baek2019character,
-  title={Character Region Awareness for Text Detection},
-  author={Baek, Youngmin and Lee, Bado and Han, Dongyoon and Yun, Sangdoo and Lee, Hwalsuk},
-  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
-  pages={9365--9374},
-  year={2019}
-}
-```
-
-## Citation
-
-```bibtex
-@InProceedings{GnanaPrasath,
-  title={Tamil OCR},
-  author={Gnana Prasath D},
-  month={01},
-  year={2024},
-  url={https://github.com/gnana70/tamil_ocr}
-}
-```
